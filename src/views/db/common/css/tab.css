@@ -1,0 +1,24 @@
+.tab2{
+  border: 1px solid #c3cdd7;
+  border-radius: 2px;
+  background: #fff;
+  height: 100%;
+}
+.tab2-head {
+  margin: 20px;
+  position: relative;
+  /*border-bottom: 1px solid #c3cdd7;*/
+  height: 58px;
+}
+.el-tabs__header {
+  padding: 0;
+  position: relative;
+  margin: 0 35px 10px;
+}
+.el-tab-pane{
+  height: calc(100% - 40px);
+  margin-bottom: 62px;
+}
+.tab-container{
+  margin: 15px;
+}
